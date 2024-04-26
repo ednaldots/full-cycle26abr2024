@@ -13,6 +13,7 @@ public class Category extends AggregateRoot <CategoryID>  {
     private Instant updatedAt;
     private static Instant deletedAt;
 
+
     private Category(
             final CategoryID anId,
             final String aName,
