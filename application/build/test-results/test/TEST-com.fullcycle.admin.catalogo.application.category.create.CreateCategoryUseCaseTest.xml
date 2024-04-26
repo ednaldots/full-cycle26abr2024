@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fullcycle.admin.catalogo.application.category.create.CreateCategoryUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-04-25T21:22:32" hostname="LENOVO" time="1.247">
+  <properties/>
+  <testcase name="testCreateUseCase()" classname="com.fullcycle.admin.catalogo.application.category.create.CreateCategoryUseCaseTest" time="1.153"/>
+  <testcase name="givenAValidCommand_whenCallsCreateCategory_shouldReturnCategoryId()" classname="com.fullcycle.admin.catalogo.application.category.create.CreateCategoryUseCaseTest" time="0.091"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

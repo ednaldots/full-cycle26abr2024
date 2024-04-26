@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fullcycle.admin.catalogo.domain.category.CategoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-24T01:57:30" hostname="LENOVO" time="0.047">
+  <properties/>
+  <testcase name="givenAnActiveCategory_whenCallDeactive_thenReturnCategoryInactiveted()" classname="com.fullcycle.admin.catalogo.domain.category.CategoryTest" time="0.047"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
